@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.env.windows": {},
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80,120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": true,
+    "editor.semanticHighlighting.enabled": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "workbench.layoutControl.enabled": false,
+    "apc.header": {
+        "height": 36
+    },
+    "explorer.fileNesting.enabled": true,
+    "workbench.iconTheme": "symbols",
+    "console-ninja.featureSet": "Community",
+    
+}
