@@ -1,0 +1,13 @@
+Apc Customize UI++
+Console Ninja
+Dev Containers
+ES7+ React/Redux/React-Native snippets
+GitHub Codespaces
+GitHub Pull Requests
+Live Server
+Min Theme
+Multiple cursor case preserve
+Prettier - Code formatter
+Symbols
+GitHub Copilot
+GitHub Copilot Chat
